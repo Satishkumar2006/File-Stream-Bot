@@ -1,3 +1,6 @@
 flask
 pyrogram
 tgcrypto
+python-dotenv
+moviepy
+ffmpeg-python
